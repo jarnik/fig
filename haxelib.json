@@ -1,0 +1,10 @@
+{
+	"name": "fig",
+	"url": "https://github.com/jarnik/fig",
+	"tags": [],
+	"description": "Tree hierarchy framework",
+	"version": "0.0.1",
+	"contributors": [ "jarnik" ],
+	"classPath": "src/",
+	"dependencies": {}
+}
